@@ -1,0 +1,15 @@
+Kiek aštuonkojis turi kojų?;8 ;6 ;2 ;3 ;8
+Koks yra banano ilgis; 1 bananas; 2 ; 3 ; 4 bananai; 1 bananas
+Kiek bus 2 + 2 ? ; 4 ; 3 ; 5 ; 4
+Ar tau patinka šitie klausimai ? ; taip ; ne ; taip
+Ar dvejetas yra lygus sau ? ; taip ; ne ;taip
+Šimtas padalinti i 4 dalis; 25 ; 100 ; 75 ; 25
+Kur tu buvai vakar ?; namie; darbe; mokykloj; namie
+Ar tu ?; taip; ne; taip
+Ar tai yra sąžiningas testas? ; taip ; ne ; taip
+75 + abėcėlė ; meluoji ; 75 + abėcėlė; 75 + abėcėlė
+gražiausia spalva; mėlyna; geltona; juoda; mėlyna
+100 * 100; 50; 465 ; 1000; 10; 1000
+1+2 ; 3 ;5 ;4 ;6 ;3
+2+3 ; 2 ;6 ;5 ; ka? ; 5
+7+5 ; 15 ; 1 ; 12 ; 12
